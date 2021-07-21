@@ -1,3 +1,8 @@
-cat = "Momo"
-person = "Justina"
+cat = "Momo is my kitty."
+person = "Justina is a person."
 partner = "Chaz"
+
+momo_inches = 15
+shoe_collection = 8
+pizza_slice_count = 5.5
+hours_of_sleep = 6.789
