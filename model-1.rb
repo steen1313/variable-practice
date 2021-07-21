@@ -9,3 +9,6 @@ hours_of_sleep = 6.789
 
 is_momo_hungry = true
 is_tired = false
+
+cat_toys = ["string", "wand", "donut", "sushi"]
+moods = ["happy", "relaxed", "paranoid", "anxious", "excited"]
