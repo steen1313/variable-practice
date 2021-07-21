@@ -12,3 +12,16 @@ is_tired = false
 
 cat_toys = ["string", "wand", "donut", "sushi"]
 moods = ["happy", "relaxed", "paranoid", "anxious", "excited"]
+
+momo = {
+  "fur_color" => ["grey", "black", "brown"],
+  "favorite_toy" => "doughnut",
+  "is_hungry" => true,
+  "is_sleepy" => false,
+}
+
+grocery_list = {
+  "oranges" => 5,
+  "steaks" => "Only if they're on sale",
+  "frozen_pizza" => 2.5
+}
